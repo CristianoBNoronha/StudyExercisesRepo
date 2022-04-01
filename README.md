@@ -1,27 +1,19 @@
 # StudyExercisesRepo
 Repository where I am storing some study exercises I did while studying C#.
 
-=> Blog
-
+=> Blog.
 Blog Web API, ASP.NET MVC Web API implementation, using Json file, and stored on SqlServer database. 
 This was made by following C# ASP.NET 6 fundamentals course from balta.io back-end career.
 
+=> FilesExercise.
+Files exercise, from C# course, a program that manipulates data from a csv file and returns another file in a subfolder with data.
 
-=> FilesExercise
+=> ExerciseExceptions.
+Program that receives data from a bank account and makes withdraws. It prints error messages, in case withdraw being greater than account balance, or greater than withdraw limits. 
 
-Exercicio com arquivos, do curso de C#, o programa manipula dados de um arquivo csv e devolve outro arquivo em uma subpasta com os dados.
-
-
-=> ExerciseExceptions
-
-Programa que recebe dados de uma conta bancaria e realiza saques, imprime mensagem de erro no caso do saque ser maior que o saldo ou maior que o limite de saque.
-
-
-=> MetodoAbstrato
-
-Programa concluido, exercicio curso c#, programa para calcular taxa de imposto pessoa fisica e juridica.
+=> MetodoAbstrato.
+Abstract method exercise program, that calculates personal and corporate taxes.
 
 
-=> SalesWebMvc
-
-C# course exercise, MVC Web aplication, using .NET Core.
+=> SalesWebMvc.
+C# course exercise, MVC Sales Web aplication, using .NET Core.
