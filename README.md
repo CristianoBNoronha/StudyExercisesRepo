@@ -1,5 +1,5 @@
 # StudyExercisesRepo
-Repository where I am storing some study exercises I did while studying C#.
+Repository to store some study exercises I did while studying C#.
 
 => Blog => Blog Web API, ASP.NET MVC Web API implementation, using Json file, and stored on SqlServer database. 
 This was made by following C# ASP.NET 6 fundamentals course from balta.io back-end career.
